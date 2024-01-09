@@ -1,6 +1,8 @@
 # Olá, Mundo! 🌍
 
-Eu sou uma entusiasta do **desenvolvimento de software com foco em back-end**. Atualmente, estou aprimorando minhas habilidades na FIAP, onde estou cursando **Análise e Desenvolvimento de Sistemas.** 🎓💻
+Sou **desenvolvimento de software com foco em back-end**. 💻
+
+Atualmente, estou aprimorando minhas habilidades na FIAP, onde estou cursando **Análise e Desenvolvimento de Sistemas.** 🎓💻
 
 Minha jornada técnica até agora me permitiu adquirir proficiência em **JavaScript, Node.js e SQL.** Essas linguagens têm sido minhas companheiras constantes enquanto eu navego pelo universo da tecnologia. 🚀
 
