@@ -1,6 +1,6 @@
 # Olá, Mundo! 🌍
 
-Sou **desenvolvimento de software com foco em back-end**. 💻
+Sou **desenvolvedora de software com foco em back-end**. 💻
 
 Atualmente, estou aprimorando minhas habilidades na FIAP, onde estou cursando **Análise e Desenvolvimento de Sistemas.** 🎓💻
 
