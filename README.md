@@ -4,8 +4,6 @@ Sou **desenvolvedora de software com foco em back-end**. 💻
 
 Atualmente, estou aprimorando minhas habilidades na FIAP, onde estou cursando **Análise e Desenvolvimento de Sistemas.** 🎓💻
 
-Minha jornada técnica até agora me permitiu adquirir proficiência em **JavaScript, Node.js e SQL.** Essas linguagens têm sido minhas companheiras constantes enquanto eu navego pelo universo da tecnologia. 🚀
-
 Obrigada por visitar meu perfil. Fique à vontade para explorar meus projetos e entrar em contato! 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-morena/)
@@ -15,6 +13,7 @@ Obrigada por visitar meu perfil. Fique à vontade para explorar meus projetos e 
 ![JavaScripts](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
